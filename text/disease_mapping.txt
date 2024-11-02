@@ -1,0 +1,6 @@
+0: Disease:Acne
+1: Disease:Eczema
+2: **Melasma** is a skin condition causing brown or gray-brown patches, typically on the face. It's common in women and often triggered by sun exposure, hormonal changes, and genetics.
+3: Normal Skin
+4: Disease:Psoriasis
+5: Disease:Vitiligo

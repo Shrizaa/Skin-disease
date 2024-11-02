@@ -1,0 +1,15 @@
+Disease:Acne
+
+Acne Symptoms
+- *Pimples, blackheads, whiteheads*: Usually on the face, chest, and back.
+- *Red, inflamed bumps*: Painful cysts or nodules in severe cases.
+- *Scarring*: Can result from persistent or untreated acne.
+
+ Treatment
+- *Topical treatments*: Benzoyl peroxide, salicylic acid, or retinoids.
+- *Oral medications*: Antibiotics or hormonal treatments (prescribed by a doctor).
+- *Gentle skincare*: Non-comedogenic products and regular cleansing.
+- *Avoid picking* to prevent scarring.
+
+For severe acne, consult a dermatologist.
+
